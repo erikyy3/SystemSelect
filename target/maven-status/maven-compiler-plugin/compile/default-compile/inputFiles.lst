@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\com\mycompany\systemselectmaven\Main_UI.java
+=======
+>>>>>>> b7d3430d11ed07e2dec4f80232e22b95ee77fdf0
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\com\mycompany\systemselectmaven\SystemSelectMAVEN.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Administracao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Computador.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\ListaComputadores.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\ListaUsuarios.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\ListaVendas.java
+<<<<<<< HEAD
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\SessaoUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Usuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Venda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\AlteracaoDadosCartao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\AlteracaoDadosCliente.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\CadastroItem.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\CadastroUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\CadastroVenda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\EdicaoItem.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\EdicaoUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\EdicaoVenda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\RelatorioComprasAdministracao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\RelatorioComprasUsuarios.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\RelatorioEstoque.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\RelatorioUsuarios.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\TelaLogin.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\TelaPrincipalAdministracao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\Views\TelaPrincipalUsuarios.java
+=======
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Usuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelectBasico\src\main\java\netbeans\Venda.java
+>>>>>>> b7d3430d11ed07e2dec4f80232e22b95ee77fdf0
+=======
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\com\mycompany\systemselect1\SystemSelect1.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\dao\AdministradorDAO.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\dao\ComputadorDAO.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\dao\UsuarioDAO.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\dao\VendaDAO.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\netbeans\Computador.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\netbeans\SessaoUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\netbeans\Usuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\netbeans\Venda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\persistencia\JPAUtil.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\AlteracaoDadosCartao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\AlteracaoDadosCliente.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\CadastroItem.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\CadastroUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\CadastroVenda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\EdicaoItem.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\EdicaoUsuario.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\EdicaoVenda.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\RelatorioComprasAdministracao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\RelatorioComprasUsuarios.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\RelatorioEstoque.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\RelatorioUsuarios.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\TelaLogin.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\TelaPrincipalAdministracao.java
+C:\Users\butuk\OneDrive\Documentos\NetBeansProjects\SystemSelect1\src\main\java\Views\TelaPrincipalUsuarios.java
+>>>>>>> e9ad854 (Integração do banco de dados)
